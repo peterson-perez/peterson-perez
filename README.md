@@ -5,8 +5,7 @@
 
  ### I'm Peterson, a front-end developer 🚀  
 
-  
-  <br/>
+ <br/>
 
 - 🔭 I’m currently working on <a href="https://angular.io/" target="_blank">Angular</a>
   
