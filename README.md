@@ -1,10 +1,8 @@
-# Hello World.
-
-## Hi I'm Peterson perez. 👋
+# Hello World, i'm Peterson Perez 👋
 
 ### I'm a front-end web development.
 
-I have knowledge in:
+### I have knowledge in:
 
 HTML.
 CSS.
