@@ -1,6 +1,4 @@
-<div>
-<img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 50%" />
-</div>  
+# < Hellow, World! />  
 
 ### I'm Peterson, a front-end developer 🚀  
   
