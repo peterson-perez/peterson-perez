@@ -1,9 +1,9 @@
 <div align="center">
-# < Hellow, World! />  
+ # < Hellow, World! />  
 <div/>
   
 <div align="center">
-### I'm Peterson, a front-end developer 🚀  
+ ### I'm Peterson, a front-end developer 🚀  
 <div/>
   
   <br/>
@@ -17,7 +17,7 @@
 <br/>  
 
 <div align="center">
-## Connect with me 
+ ## Connect with me 
 
 
 <a href="https://linkedin.com/in/petersonperez" target="_blank">
@@ -26,12 +26,12 @@
 <div/>
 
 <div align="center">
-## My Skill Set  
+ ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 <div/>
 
 <div align="center">
-### Frontend  
+ ### Frontend  
  <div align="center">
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>   
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
