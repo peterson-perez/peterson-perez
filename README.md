@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on <a href="https://angular.io/" target="_blank">Angular</a>
   
 
-- 🌱 I’m currently learning Javascript and Angular, React, Next and Tailwind for front-end projects
+- 🌱 I’m currently using Javascript, Typescrit, Angular, React, Next and Tailwind for front-end projects
   
 
 <br/>  
