@@ -3,13 +3,13 @@
 
   
 
- ### I'm Peterson, a front-end developer 🚀  
+ ### I'm Peterson, a Full-Stack developer 🚀  
 <br/>
 
 - 🔭 I’m currently working on <a href="https://angular.io/" target="_blank">Angular</a>
   
 
-- 🌱 I’m currently learning Javascript and Angular front-end  
+- 🌱 I’m currently learning Javascript and Angular, React, Next and Tailwind for front-end projects
   
 
 <br/>  
